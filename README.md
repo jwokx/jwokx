@@ -1,5 +1,5 @@
 😄 ABOUT ME
-I'm a Frontend Developer with a passion for creating visually appealing and user-friendly interfaces.As a creative person, I enjoy bringing ideas to life through code and design.
+- I'm a Frontend Developer with a passion for creating visually appealing and user-friendly interfaces.As a creative person, I enjoy bringing ideas to life through code and design.
 
 ⚡ TECH STACK
 - Frontend: Html,css,javascript
